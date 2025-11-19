@@ -1,75 +1,12 @@
-**Barbados Digital Service Standards**
+# **Barbados Digital Service Standards**
 
 GovTech Barbados
 
-# 
-
-# 
-
-# 
-
-# Barbados Digital Service Standards
 
 These are the standards by which public-facing digital services in Barbados will be assessed before they are published and made available to the public.
 
-| The checklists contain ideas about how you might practically check if you are building services in line with the standards. |
-| :---- |
+The checklists in the "How to do it" sections contain ideas about how you might practically check if you are building services in line with the standards. 
 
-# **Summary**
-
-## **1\. [Make sure your service meets your users' needs](#bookmark=kix.gyu6dys2hkhv)**
-
-Users should continuously be engaged and involved from the initial design all the way through development, implementation, and improvement of the service.
-
-## **2\. [Discover, design, build and deliver with a multidisciplinary team](#bookmark=kix.ggoy6u7dh3zi)**
-
-Establish a multidisciplinary team that can discover, design, create and operate the service in a sustainable way.
-
-## **3\. [Ensure that everyone can use the service](#bookmark=kix.5cbfsl1tbs3f)**
-
-The service should be inclusive of different demographics of the Barbadian public.
-
-## **4\. [Use simple and relatable language](#bookmark=kix.iaoe4865i347)**
-
-Use visual, audio, and written language that is familiar to Barbados’ residents and other users of the service
-
-## **5\. [Make sure the service works the first time it’s used](#5.-make-sure-the-service-works-the-first-time-it’s-used)**
-
-The service should be simple and intuitive to use.
-
-## **6\. [Choose the right tools and technology](#bookmark=kix.89i5dux89ldh)**
-
-Put the right tools and technology in place to deliver and sustain the service.
-
-## **7\. [Use open, common, interoperable platforms](#bookmark=kix.l4c1s7zgjsn)**
-
-Build using and connecting to platforms that already exist as much as possible.
-
-## **8\. [Make the service scalable and sustainable](#bookmark=kix.rfwvu0pk14td)**
-
-Plan for, and design sustainability and scalability into the service from the start.
-
-## **9\. [Be open and transparent](#bookmark=kix.j2gv8k1si1ne)**
-
-Work in the open and collaborate with other government ministries, departments, and agencies
-
-## **10\. [Make sure the service can be continuously improved](#bookmark=kix.6wip2cjbobf)**
-
-Build a service that is responsive to changing user needs
-
-## **11\. [Design for trust, safety, and confidentiality](#bookmark=kix.q1pw0puny8oy)**
-
-Have and comply with trust and safety requirements 
-
-## **12\. [Make it easy for users to find](#bookmark=kix.oohvk7m5zvh4)**
-
-Have information about the service available where your users can easily learn about it.
-
-## **13\. [Monitor, manage, and measure performance](#bookmark=kix.5j67kpltxsci)**
-
-Work out what success looks like for your service and identify the metrics to measure it. 
-
-# 
 
 # **1\. Make sure your service meets your users' needs**
 
@@ -89,8 +26,16 @@ This will ensure that users use the service as it meets their needs. If the serv
 
 ## **How to do it**
 
-| Before building the service, interview at least five people who are facing the problem you are trying to solve. Do not simply rely on what they say they want or need alone, probe to learn about what they need and why. Based on insights from the interviews, write a [clear problem statement](https://www.interaction-design.org/literature/topics/problem-statements?srsltid=AfmBOopE68BtBy3hMwghLq4gxu0DjILBGtUBeMpfZUt3yxi2tp9j6Uwc) that covers  what user needs you are trying to solve Itemise potential services that could address the challenge based on your drafted problem statement Prioritise what service to focus on, by gaining input from users and stakeholders and using analytics Test the first service prototype with potential users quickly as soon as you build it Ask users what they need to be able to achieve when they are accessing the service Observe users to note the degree of ease or difficulty with which they can access the service, and why Find out if there is a category of users or user groups that are unable to access the service or find it particularly more challenging than others to access the service, and why Build, run and modify the service based on continuous feedback from users |
-| :---- |
+* Before building the service, interview at least five people who are facing the problem you are trying to solve. Do not simply rely on what they say they want or need alone, probe to learn about what they need and why.
+* Based on insights from the interviews, write a [clear problem statement](https://www.interaction-design.org/literature/topics/problem-statements?srsltid=AfmBOopE68BtBy3hMwghLq4gxu0DjILBGtUBeMpfZUt3yxi2tp9j6Uwc) that covers  what user needs you are trying to solve
+* Itemise potential services that could address the challenge based on your drafted problem statement
+* Prioritise what service to focus on, by gaining input from users and stakeholders and using analytics
+* Test the first service prototype with potential users quickly as soon as you build it
+* Ask users what they need to be able to achieve when they are accessing the service
+* Observe users to note the degree of ease or difficulty with which they can access the service, and why
+* Find out if there is a category of users or user groups that are unable to access the service or find it particularly more challenging than others to access the service, and why
+* Build, run and modify the service based on continuous feedback from users 
+ 
 
 **Resources**
 
@@ -137,8 +82,12 @@ This will ensure that all skills needed to optimise every stage of service devel
 
 ## **How to do it**
 
-| Identify all the skills you have in-house  At the stage when you are trying to discover the problem, you must have product management, user research, subject matter expertise and design skills within the team At the stage when you are exploring ideas and building prototypes, you must have product management, delivery/project management, user research, design, content design, software development, technology and accessibility skills within the team When building the earliest version of the service, you must have the same skill set employed in the ideas and prototypes phase, with the addition of service testing. You may however need to increase the number of people on the team so that part of the team can focus on building the first version, while the other focuses on how to make the service ready for end-users. When end-users start using the service you must have the same skill set employed in building the first version of the service. You can however reduce the team size as necessary, as you have finished building, and the focus of this stage is to ensure that the service is continuously functioning well and improved upon  When engaging external vendors to build a service, check in with them at least twice a month, and ensure their process and decision-making are research-backed |
-| :---- |
+* Identify all the skills you have in-house.
+* At the stage when you are trying to discover the problem, you must have product management, user research, subject matter expertise and design skills within the team
+* At the stage when you are exploring ideas and building prototypes, you must have product management, delivery/project management, user research, design, content design, software development, technology and accessibility skills within the team
+* When building the earliest version of the service, you must have the same skill set employed in the ideas and prototypes phase, with the addition of service testing. You may however need to increase the number of people on the team so that part of the team can focus on building the first version, while the other focuses on how to make the service ready for end-users.
+* When end-users start using the service you must have the same skill set employed in building the first version of the service. You can however reduce the team size as necessary, as you have finished building, and the focus of this stage is to ensure that the service is continuously functioning well and improved upon
+* When engaging external vendors to build a service, check in with them at least twice a month, and ensure their process and decision-making are research-backed 
 
 **Resources**
 
@@ -168,8 +117,15 @@ The government exists to serve all citizens. The services the government runs mu
 
 ## **How to do it**
 
-| Identify and enumerate particular groups or communities that it is important not to exclude, and work out how to ensure they are not.   Refer to any government or partner organisations – for example Civil Society Organisations – that can help you reach under-represented communities. Recruit user research participants from among your actual users \- make sure you design for their needs and continually test your service with them Use research techniques that help to include harder-to-reach groups Based on the learnings from your discovery, identify all the channels potential users currently use in accessing existing services Led by an accessibility expert in your team, design and build the service to be accessible through all identified access channels. Look for points in the service that could exclude particular groups and address them Consider alternative familiar channels to the internet-enabled platforms through which the public can access the services. Consider providing secure proxy access so that your users are able to access the service via their trusted families or friends Use the Barbados Design System to inform the design of the service’s user interface to promote accessibility and improve the experience of users |
-| :---- |
+* Identify and enumerate particular groups or communities that it is important not to exclude, and work out how to ensure they are not.
+* Refer to any government or partner organisations – for example Civil Society Organisations – that can help you reach under-represented communities.
+* Recruit user research participants from among your actual users \- make sure you design for their needs and continually test your service with them
+* Use research techniques that help to include harder-to-reach groups
+* Based on the learnings from your discovery, identify all the channels potential users currently use in accessing existing services
+* Led by an accessibility expert in your team, design and build the service to be accessible through all identified access channels. Look for points in the service that could exclude particular groups and address them
+* Consider alternative familiar channels to the internet-enabled platforms through which the public can access the services.
+* Consider providing secure proxy access so that your users are able to access the service via their trusted families or friends
+* Use the Barbados Design System to inform the design of the service’s user interface to promote accessibility and improve the experience of users |
 
 **Resources**
 
@@ -199,8 +155,10 @@ This will ensure that more users are able to access the service
 
 ## **How to do it**
 
-| Based on the learnings from your discovery, identify all languages and channels of communication potential users currently use in accessing existing services Led by an accessibility expert in your team, design and build the service to be accessed in all languages and channels of communication Identify the average reading age of your users and ensure that content is written in an accessible way for them Through research, observe your users attempt to perform tasks using your service and check that they are able to understand the content and language used |
-| :---- |
+* Based on the learnings from your discovery, identify all languages and channels of communication potential users currently use in accessing existing services
+* Led by an accessibility expert in your team, design and build the service to be accessed in all languages and channels of communication
+* Identify the average reading age of your users and ensure that content is written in an accessible way for them
+* Through research, observe your users attempt to perform tasks using your service and check that they are able to understand the content and language used 
 
 **Resources**
 
@@ -227,10 +185,10 @@ This ensures that users have a successful experience using the service, and do n
 
 ## **How to do it**
 
-| Perform usability tests at all stages of service development. Watch your users actually try to perform a task first time on your service and see how easy it is for them to use  Build the service using insights from usability tests After the service is made available for end-users, continuously observe how easy it is for users to use the service Continuously improve the service based on insights from end-users |
-| :---- |
-
-# 
+* Perform usability tests at all stages of service development.
+* Watch your users actually try to perform a task first time on your service and see how easy it is for them to use
+* Build the service using insights from usability tests After the service is made available for end-users, continuously observe how easy it is for users to use the service
+* Continuously improve the service based on insights from end-users |
 
 **Resources**
 
@@ -258,8 +216,12 @@ This ensures that the service is built using the most cost-effective tools and t
 
 ## **How to do it**
 
-| Led by your team’s technology expert, alongside insights from the discovery and design phase, assess all available tools and technology based on cost, ease of scale, ease of use, and accessibility Seek advice from the Ministry of Industry Innovation Science and Technology (MIST) on which technology will be most appropriate for your situation Avoid using heavy front-end frameworks that will increase page load times Choose tools that enable continuous integration, interoperability, and continuous deployment, so that you can more rapidly build and deploy your service Choose the tools and technology that rank the highest Use the resources available in the Design System to access reusable components that will provide a consistent experience for users of digital services across Barbados |
-| :---- |
+* Led by your team’s technology expert, alongside insights from the discovery and design phase, assess all available tools and technology based on cost, ease of scale, ease of use, and accessibility
+* Seek advice from the Ministry of Industry Innovation Science and Technology (MIST) on which technology will be most appropriate for your situation
+* Avoid using heavy front-end frameworks that will increase page load times
+* Choose tools that enable continuous integration, interoperability, and continuous deployment, so that you can more rapidly build and deploy your service
+* Choose the tools and technology that rank the highest
+* Use the resources available in the Design System to access reusable components that will provide a consistent experience for users of digital services across Barbados  
 
 **Resources**
 
@@ -284,8 +246,12 @@ This reduces duplication of effort across the government. This could also help t
 
 ## **How to do it**
 
-| Check the country’s catalogue of services to see if any similar service has been previously built Your technology expert should assess whether your service can be built on top of already existing services or as a modification of existing services   Identify common components needed for your service such as databases, and payment gateways Check Barbados’ catalogue of common components and the Design System to see if what you need for your service already exists Where possible, use open source digital public goods (DPGs) that are regularly maintained, instead of proprietary technology Reach out to the Ministry of Innovation, Industry Science and Technology for guidance on adoption of Digital Public Infrastructure |
-| :---- |
+* Check the country’s catalogue of services to see if any similar service has been previously built
+* Your technology expert should assess whether your service can be built on top of already existing services or as a modification of existing services
+* Identify common components needed for your service such as databases, and payment gateways
+* Check Barbados’ catalogue of common components and the Design System to see if what you need for your service already exists
+* Where possible, use open source digital public goods (DPGs) that are regularly maintained, instead of proprietary technology
+* Reach out to the Ministry of Innovation, Industry Science and Technology for guidance on adoption of Digital Public Infrastructure  
 
 **Resources**
 
@@ -303,17 +269,17 @@ Plan for, and design sustainability and scalability into the service from the st
 ## **What it means**
 
 The team should plan for integration of the service with ‘business as usual’ and ensure that there is the team and funding in place for it to continuously adapt and improve over time.  
-
 ## **Why it’s important**
 
 The continuity of funding, tooling and teams is essential for a service having a long term and lasting impact.  
 
 ## **How to do it**
 
-| Ensure that software codes and other important information about the service are documented, and store them in a shared and easily accessible repository online Ensure that you have access to the skills you need to run and grow the service available. Ideally the team would be co-located. Think about interoperability from the start Have at least a six-month budget available to run and grow the service every time Be careful about relying on one vendor for the development, delivery and maintenance of the service |
-| :---- |
-
-# 
+* Ensure that software codes and other important information about the service are documented, and store them in a shared and easily accessible repository online
+* Ensure that you have access to the skills you need to run and grow the service available. Ideally the team would be co-located.
+* Think about interoperability from the start
+* Have at least a six-month budget available to run and grow the service every time
+* Be careful about relying on one vendor for the development, delivery and maintenance of the service  
 
 **Resources**
 
@@ -343,8 +309,8 @@ This will help facilitate knowledge exchange and capability building within the 
 
 ## **How to do it**
 
-| Have a regular cadence of show and tell sessions with MDAs when building services After building the service publish the service’s source code in open code repositories such as GitHub |
-| :---- |
+* Have a regular cadence of show and tell sessions with MDAs when building services
+* After building the service publish the service’s source code in open code repositories such as GitHub  
 
 **Resources**
 
@@ -365,8 +331,6 @@ Running a live service doesn’t have to mean a full team working on the service
 
 There should always be a continuous cycle of building, getting feedback, drawing learnings, and service improvement.
 
-## 
-
 ## **Why it’s important** 
 
 Services are never “finished”; they must keep improving. Iteration isn’t just for the early stages of a service’s development. Using agile methods means getting real people using your service as early as possible, and then making improvements throughout the lifetime of the service.
@@ -377,8 +341,10 @@ Continuous improvement means you can respond to changes in user needs, other dat
 
 ## **How to do it**
 
-| Get real users to quickly begin using the earliest version of your service so you can begin to understand the needs of your users Continuously conduct user research to understand your users’ needs and use what you learn to improve the service  Work with your organisation to make sure that you’re able to focus on improvements that have the most value. Turn off services and features that are no longer used or supported. |
-| :---- |
+* Get real users to quickly begin using the earliest version of your service so you can begin to understand the needs of your users
+* Continuously conduct user research to understand your users’ needs and use what you learn to improve the service
+* Work with your organisation to make sure that you’re able to focus on improvements that have the most value.
+* Turn off services and features that are no longer used or supported.  
 
 **Resources**
 
@@ -410,10 +376,11 @@ It enhances the social contract between the government and users. It also ensure
 
 ## **How to do it**
 
-| Ensure there is expertise in national and international security, data protection and confidentiality standards within the team When building the service, apply the national and international security, data protection and confidentiality standards  Run regular security tests on the service Run safety and confidentiality user perception tests for the service Use the Barbados Design System for all your design needs. If you have new design elements not yet included, liaise with GovTech Barbados to have them included in it |
-| :---- |
-
-# 
+* Ensure there is expertise in national and international security, data protection and confidentiality standards within the team
+* When building the service, apply the national and international security, data protection and confidentiality standards
+* Run regular security tests on the service
+* Run safety and confidentiality user perception tests for the service
+* Use the Barbados Design System for all your design needs. If you have new design elements not yet included, liaise with GovTech Barbados to have them included in it 
 
 **Resources**
 
@@ -444,8 +411,8 @@ For a service to solve users’ needs, the users must first know that it exists.
 
 ## **How to do it**
 
-| Understand your users and where they usually go to access information. Leverage those channels to drive awareness about the service. Name the service using verbs, and not nouns, and using language familiar to the general public and not descriptions or titles that are only really familiar to the government. User research can help you test and determine what works. |
-| :---- |
+* Understand your users and where they usually go to access information. Leverage those channels to drive awareness about the service.
+* Name the service using verbs, and not nouns, and using language familiar to the general public and not descriptions or titles that are only really familiar to the government. User research can help you test and determine what works.  
 
 **Resources**
 
@@ -475,8 +442,12 @@ Having performance metrics based on your definition of what good looks like mean
 
 ## **How to do it**
 
-| Discuss how you could measure the performance of a service. What kind of metrics are important common indicators for you? How would you use them to stop or change a service? Are there any that all services must publish? Identify metrics which will indicate how well the service is solving the problem it’s meant to solve, and track performance against them Actively seek feedback to identify impacts – positive and negative – that are not being measured, and improve metrics where necessary Collect and use performance data from all channels, online and offline. Use performance data to make decisions about how to fix problems and improve the service Publish service performance metrics to your stakeholders |
-| :---- |
+* Discuss how you could measure the performance of a service. What kind of metrics are important common indicators for you? How would you use them to stop or change a service? Are there any that all services must publish?
+* Identify metrics which will indicate how well the service is solving the problem it’s meant to solve, and track performance against them
+* Actively seek feedback to identify impacts – positive and negative – that are not being measured, and improve metrics where necessary
+* Collect and use performance data from all channels, online and offline.
+* Use performance data to make decisions about how to fix problems and improve the service
+* Publish service performance metrics to your stakeholders  
 
 **Resources**
 
