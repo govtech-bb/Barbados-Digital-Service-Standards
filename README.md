@@ -125,7 +125,7 @@ The government exists to serve all citizens. The services the government runs mu
 * Led by an accessibility expert in your team, design and build the service to be accessible through all identified access channels. Look for points in the service that could exclude particular groups and address them
 * Consider alternative familiar channels to the internet-enabled platforms through which the public can access the services.
 * Consider providing secure proxy access so that your users are able to access the service via their trusted families or friends
-* Use the Barbados Design System to inform the design of the service’s user interface to promote accessibility and improve the experience of users |
+* Use the Barbados Design System to inform the design of the service’s user interface to promote accessibility and improve the experience of users 
 
 **Resources**
 
@@ -169,8 +169,7 @@ This will ensure that more users are able to access the service
 * [How to write well for your audience, including specialists](https://www.gov.uk/guidance/content-design/writing-for-gov-uk)  
 * [Doing research with limited resources](https://contentdesign.london/blog/doing-research-with-limited-resources)
 
-# **5\. Make sure the service works the first time it’s used** {#5.-make-sure-the-service-works-the-first-time-it’s-used}
-
+# **5\. Make sure the service works the first time it’s used**  
 The service should be simple and intuitive to use.
 
 ## **What it means**
@@ -188,7 +187,7 @@ This ensures that users have a successful experience using the service, and do n
 * Perform usability tests at all stages of service development.
 * Watch your users actually try to perform a task first time on your service and see how easy it is for them to use
 * Build the service using insights from usability tests After the service is made available for end-users, continuously observe how easy it is for users to use the service
-* Continuously improve the service based on insights from end-users |
+* Continuously improve the service based on insights from end-users 
 
 **Resources**
 
