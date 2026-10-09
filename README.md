@@ -103,13 +103,13 @@ The service should be inclusive of the different demographics of the Barbadian p
 
 ## **What it means**
 
-Ensure that everyone who needs to access the service is able to, regardless of their educational background, academic literacy level, digital literacy level, financial status, geographical location, gender, age, access to technology, physical ability or the language that they speak. The service should exclude no one. The [Barbados Design System](https://github.com/govtech-bb/design-system) developed on the basis of research and experience of the digital service teams at GovTech Barbados should guide the approach to designing service user interfaces.
+Ensure that everyone who needs to access the service is able to, regardless of their educational background, academic literacy level, digital literacy level, financial status, geographical location, gender, age, access to technology, physical ability or the language that they speak. The service should exclude no one. The [Barbados Design System](https://design-system.service.alpha.gov.bb/) developed on the basis of research and experience of the digital service teams at GovTech Barbados should guide the approach to designing service user interfaces.
 
 Make sure that the digital service, where online, should require as little Internet data as possible, ensuring accessibility even for communities with limited access to internet connectivity, and those who are unable to afford expensive data plans.
 
 Ensure that digital services are always built in a way that even the users who don’t own internet-enabled devices or who lack digital skills can still access them. The needs of users without internet-connected devices should be considered and catered for in the service design and delivery. 
 
-Making your service accessible to users with disabilities is important for delivering inclusive services. Avoid excluding any segment of society that your ministry, department or agency (MDA) is intended to serve.
+Making your service accessible to users with disabilities is important for delivering inclusive services. Avoid excluding any segment of society that your ministry, department or agency (MDA) is intended to serve. Services must meet level AA of the latest version of the [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG/). The [Design System accessibility page](https://design-system.service.alpha.gov.bb/documentation/accessibility/) says which version that is and how to check against it.
 
 ## **Why it’s important**
 
@@ -129,7 +129,7 @@ The government exists to serve all citizens. The services the government runs mu
 
 **Resources**
 
-* Barbados’ Design System (available on [GitHub](https://github.com/govtech-bb/design-system) and [Storybook](https://govtech-bb.github.io/design-system/?path=/docs/components-button--docs))  
+* Barbados’ Design System (available on [GitHub](https://github.com/govtech-bb/govbb-design-system) and as a [documentation site](https://design-system.service.alpha.gov.bb/))  
 * [Designing good, inclusive (digital) services](https://nhsproviders.org/news-blogs/blogs/designing-good-inclusive-digital-services)  
 * [Digital Inclusion](https://www.interaction-design.org/literature/topics/digital-inclusion)  
 * [Making your service more inclusive](https://www.gov.uk/service-manual/design/making-your-service-more-inclusive)  
