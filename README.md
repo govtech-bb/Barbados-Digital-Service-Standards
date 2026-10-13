@@ -109,7 +109,7 @@ Make sure that the digital service, where online, should require as little Inter
 
 Ensure that digital services are always built in a way that even the users who don’t own internet-enabled devices or who lack digital skills can still access them. The needs of users without internet-connected devices should be considered and catered for in the service design and delivery. 
 
-Making your service accessible to users with disabilities is important for delivering inclusive services. Avoid excluding any segment of society that your ministry, department or agency (MDA) is intended to serve. Services must meet level AA of the latest version of the [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG/). The [Design System accessibility page](https://design-system.service.alpha.gov.bb/documentation/accessibility/) says which version that is and how to check against it.
+Making your service accessible to users with disabilities is important for delivering inclusive services. Avoid excluding any segment of society that your ministry, department or agency (MDA) is intended to serve. Services must meet the version and level of the [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG/) named on the [Design System accessibility page](https://design-system.service.alpha.gov.bb/documentation/accessibility/). That page also explains how to check against it.
 
 ## **Why it’s important**
 
